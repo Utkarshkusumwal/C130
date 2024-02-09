@@ -1,0 +1,49 @@
+body {
+    font-family: 'Potta One', 'system-ui';
+}
+
+.btn-warning {
+    width: 100%;
+    font-size: 25px;
+}
+
+.btn-primary {
+    margin-bottom: 20px;
+    background-color: white !important;
+    float: none;
+    border-radius: 40px;
+}
+
+.btn-success {
+    margin-top: 10px;
+}
+
+img{
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 50px;
+}
+
+.test_image_and_result{
+    font-size: 15px;
+    background-color: bisque;
+    border-radius: 30px;
+    float: left !important;
+}
+
+.heading {
+    float: none;
+}
+
+.test_image_and_result p {
+    float: left;
+    margin-top: 15px;
+
+}
+
+hr {
+    height: 2px;
+    border-radius: 20px;
+}
